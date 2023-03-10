@@ -6,9 +6,6 @@
 2020-01-24 23:45:04, Center Lane, Titusville, Florida, United States, 32780
 2020-01-25 06:54:14, Sophia Avenue, Los Angeles, California, United States, 91406
 2020-01-26 21:19:07, Northside Parkway, Los Angeles, California, United States, 90045
-2020-01-26 21:24:52, , Los Angeles, California, United States, 90245
-2020-01-27 01:35:46, International Road, Los Angeles, California, United States, 90045
-2020-01-27 20:50:35, Boring Test Tunnel, Hawthorne, California, United States, 90250
 2020-01-28 07:08:58, Sophia Avenue, Los Angeles, California, United States, 91406
 2020-01-28 08:13:05, Airport Boulevard, San Jose, California, United States, 95110
 2020-01-28 20:33:45, Boring Test Tunnel, Hawthorne, California, United States, 90250
@@ -25,11 +22,7 @@
 2020-02-07 10:10:09, Boring Test Tunnel, Hawthorne, California, United States, 90250
 2020-02-08 00:09:21, Airport Boulevard, San Jose, California, United States, 95110
 2020-02-08 03:22:52, Sherman Way, Los Angeles, California, United States, 91406
-2020-02-08 04:27:51, Arminta Street, Los Angeles, California, United States, 91406
 2020-02-08 04:44:26, Boring Test Tunnel, Hawthorne, California, United States, 90250
-2020-02-09 08:10:25, Douglas Street, Los Angeles, California, United States, 90009
-2020-02-09 08:16:13, Imperial Highway, Los Angeles, California, United States, 90245
-2020-02-10 17:03:29, , Los Angeles, California, United States, 90009
 2020-02-11 04:47:14, Airport Boulevard, San Jose, California, United States, 95110
 2020-02-11 06:00:30, Boring Test Tunnel, Hawthorne, California, United States, 90250
 2020-02-14 05:16:23, Aviation Avenue, San Jose, California, United States, 95110
@@ -40,22 +33,15 @@
 2020-02-17 03:16:01, Sophia Avenue, Los Angeles, California, United States, 91406
 2020-02-17 03:55:27, SpaceX Starlink Entrance, Hawthorne, California, United States, 90250
 2020-02-17 23:17:45, Sherman Way, Los Angeles, California, United States, 91406
-2020-02-18 17:23:44, Arminta Street, Los Angeles, California, United States, 91406
-2020-02-18 23:57:32, Sherman Way, Los Angeles, California, United States, 91406
-2020-02-19 17:17:55, Arminta Street, Los Angeles, California, United States, 91406
 2020-02-19 23:57:51, Boring Test Tunnel, Hawthorne, California, United States, 90250
 2020-02-21 10:57:25, Sophia Avenue, Los Angeles, California, United States, 91406
 2020-02-22 04:20:04, Boring Test Tunnel, Hawthorne, California, United States, 90250
 2020-02-22 05:41:08, Sherman Way, Los Angeles, California, United States, 91406
-2020-02-23 01:14:24, Arminta Street, Los Angeles, California, United States, 91406
 2020-02-23 01:29:54, Boring Test Tunnel, Hawthorne, California, United States, 90250
 2020-02-26 07:14:57, Airport Boulevard, San Jose, California, United States, 95110
 2020-02-26 20:48:38, Boring Test Tunnel, Hawthorne, California, United States, 90250
 2020-02-27 06:04:35, Airport Boulevard, San Jose, California, United States, 95110
 2020-02-28 11:33:57, , Orlando, Florida, United States, 32827
-2020-02-28 11:40:18, Casa Verde Road, Orlando, Florida, United States, 32827
-2020-02-28 11:43:46, , Orlando, Florida, United States, 
-2020-02-28 19:24:14, FreeZone Street, Orlando, Florida, United States, 32862
 2020-02-29 05:40:15, Boring Test Tunnel, Hawthorne, California, United States, 90250
 2020-03-01 23:15:21, East Willow Street, Long Beach, California, United States, 90815
 2020-03-04 13:27:41, Mathew Street, Santa Clara, California, United States, 95053
@@ -66,15 +52,12 @@
 2020-03-06 23:56:27, Sophia Avenue, Los Angeles, California, United States, 91406
 2020-03-09 19:33:11, Radar Road, , Virginia, United States, 20102
 2020-03-10 03:04:02, Northside Parkway, Los Angeles, California, United States, 90045
-2020-03-10 03:22:40, Imperial Highway, Los Angeles, California, United States, 90245
 2020-03-10 15:52:33, Edge Light Road, , Virginia, United States, 24965
-2020-03-10 17:44:11, Vortac Road, Dulles Town Center, Virginia, United States, 20166
 2020-03-10 20:28:01, Presidential Boulevard, Austin, Texas, United States, 78719
 2020-03-11 21:16:55, Sherman Way, Los Angeles, California, United States, 91406
 2020-03-13 00:09:21, Sepulveda Boulevard, Los Angeles, California, United States, 90009
 2020-03-13 22:15:45, Sophia Avenue, Los Angeles, California, United States, 91406
 2020-03-16 14:30:13, Sepulveda Boulevard, Los Angeles, California, United States, 90009
-2020-03-16 22:05:45, Imperial Highway, Los Angeles, California, United States, 90245
 2020-03-17 05:23:12, Airport Boulevard, San Jose, California, United States, 95110
 2020-03-18 03:42:48, Sophia Avenue, Los Angeles, California, United States, 91406
 2020-03-20 21:08:13, Center Lane, Titusville, Florida, United States, 32780
@@ -130,8 +113,6 @@
 2020-07-09 08:19:30, SpaceX Starlink Entrance, Hawthorne, California, United States, 90250
 2020-07-14 21:11:21, Airport Boulevard, San Jose, California, United States, 95110
 2020-07-16 09:00:42, Westchester Parkway, Los Angeles, California, United States, 90293
-2020-07-16 09:05:49, California Street, Los Angeles, California, United States, 90245
-2020-07-16 19:30:21, Boring Test Tunnel, Hawthorne, California, United States, 90250
 2020-07-22 20:12:13, Airport Boulevard, San Jose, California, United States, 95110
 2020-07-24 17:54:37, SpaceX Starlink Entrance, Hawthorne, California, United States, 90250
 2020-07-25 20:32:21, Presidential Boulevard, Austin, Texas, United States, 78719
@@ -153,22 +134,17 @@
 2020-08-13 08:23:51, Boring Test Tunnel, Hawthorne, California, United States, 90250
 2020-08-20 08:31:42, Airport Boulevard, San Jose, California, United States, 95110
 2020-08-20 09:34:00, Westchester Parkway, Los Angeles, California, United States, 90293
-2020-08-20 09:39:02, World Way, Los Angeles, California, United States, 90009
 2020-08-20 21:26:58, Airport Boulevard, San Jose, California, United States, 95110
 2020-08-22 07:45:09, Boring Test Tunnel, Hawthorne, California, United States, 90250
 2020-08-26 21:28:20, Presidential Boulevard, Austin, Texas, United States, 78719
 2020-08-27 07:12:57, Airport Boulevard, San Jose, California, United States, 95110
 2020-08-29 07:56:09, Sterile/Lounges Level 5, Los Angeles, California, United States, 90245
-2020-08-29 08:06:57, California Street, Los Angeles, California, United States, 90245
-2020-08-30 07:33:54, International Road, Los Angeles, California, United States, 90045
 2020-08-30 16:34:50, Old Bawtry Road, Doncaster, England, United Kingdom, DN9 3BT
 2020-09-01 13:38:17, A 8, Stuttgart, Baden-Württemberg, Deutschland, 70599
 2020-09-01 21:37:32, Melli-Beese-Ring, , Brandenburg, Deutschland, 12529
 2020-09-03 19:43:50, Waggumer Straße, Braunschweig, Niedersachsen, Deutschland, 38110
 2020-09-04 06:39:46, South 170th Street, SeaTac, Washington, United States, 98148
 2020-09-04 10:16:23, Sterile/Lounges Level 5, Los Angeles, California, United States, 90245
-2020-09-04 10:22:24, California Street, Los Angeles, California, United States, 90245
-2020-09-04 15:58:12, Boring Test Tunnel, Hawthorne, California, United States, 90250
 2020-09-05 03:02:44, Perimeter Road South, Seattle, Washington, United States, 98108
 2020-09-05 04:05:53, , , Idaho, United States, 
 2020-09-07 09:20:52, Boring Test Tunnel, Hawthorne, California, United States, 90250
@@ -185,15 +161,12 @@
 2020-10-05 05:48:56, Tico Road, Titusville, Florida, United States, 32927
 2020-10-09 09:08:31, Airport Boulevard, San Jose, California, United States, 95110
 2020-10-10 03:51:57, Sepulveda Boulevard, Los Angeles, California, United States, 90009
-2020-10-10 19:35:25, Boring Test Tunnel, Hawthorne, California, United States, 90250
 2020-10-12 03:20:47, Center Lane, Titusville, Florida, United States, 32780
 2020-10-14 06:04:48, South Vermillion Avenue, Brownsville, Texas, United States, 
 2020-10-16 07:34:36, Boring Test Tunnel, Hawthorne, California, United States, 90250
 2020-10-19 09:32:47, South Vermillion Avenue, Brownsville, Texas, United States, 
 2020-10-22 08:28:57, Mathew Street, Santa Clara, California, United States, 95053
 2020-10-23 07:55:38, Concourse Level 4, Los Angeles, California, United States, 90245
-2020-10-23 08:01:55, California Street, Los Angeles, California, United States, 90245
-2020-10-23 17:55:34, Boring Test Tunnel, Hawthorne, California, United States, 90250
 2020-10-26 08:11:06, Presidential Boulevard, Austin, Texas, United States, 78719
 2020-10-31 21:07:31, Mathew Street, Santa Clara, California, United States, 95053
 2020-10-31 23:30:07, Boring Test Tunnel, Hawthorne, California, United States, 90250
@@ -201,7 +174,6 @@
 2020-11-02 04:52:57, Sepulveda Boulevard, Los Angeles, California, United States, 90009
 2020-11-02 06:33:17, Airport Boulevard, San Jose, California, United States, 95110
 2020-11-02 07:53:23, Sepulveda Boulevard, Los Angeles, California, United States, 90009
-2020-11-02 19:48:58, Boring Test Tunnel, Hawthorne, California, United States, 90250
 2020-11-03 03:48:21, Presidential Boulevard, Austin, Texas, United States, 78719
 2020-11-05 08:46:43, Melli-Beese-Ring, , Brandenburg, Deutschland, 12529
 2020-11-10 02:28:11, Presidential Boulevard, Austin, Texas, United States, 78719
@@ -216,7 +188,6 @@
 2020-11-25 07:21:31, Presidential Boulevard, Austin, Texas, United States, 78719
 2020-11-26 20:51:00, Boring Test Tunnel, Hawthorne, California, United States, 90250
 2020-11-28 00:41:55, Presidential Boulevard, Austin, Texas, United States, 78719
-2020-11-29 23:56:57, Burleson Road, Austin, Texas, United States, 78719
 2020-11-30 08:42:39, Melli-Beese-Ring, , Brandenburg, Deutschland, 12529
 2020-12-04 06:36:37, Departures, South San Francisco, California, United States, 94128
 2020-12-04 23:15:31, Airport Boulevard, San Jose, California, United States, 95110
@@ -231,7 +202,6 @@
 2020-12-17 04:45:43, South Vermillion Avenue, Brownsville, Texas, United States, 
 2020-12-19 04:58:58, Presidential Boulevard, Austin, Texas, United States, 78719
 2020-12-24 07:08:52, Boring Test Tunnel, Hawthorne, California, United States, 90250
-2020-12-24 20:15:22, Sepulveda Boulevard, Los Angeles, California, United States, 90009
 2020-12-24 23:14:14, Presidential Boulevard, Austin, Texas, United States, 78719
 2020-12-25 02:06:41, West 119th Drive, Broomfield, Colorado, United States, 80020
 2020-12-27 17:53:43, Lanui Circle, , Hawaii, United States, 96784
@@ -240,18 +210,12 @@
 2020-12-31 04:59:03, Presidential Boulevard, Austin, Texas, United States, 78719
 2021-01-05 08:35:58, Airport Boulevard, San Jose, California, United States, 95110
 2021-01-07 10:53:31, Westchester Parkway, Los Angeles, California, United States, 90293
-2021-01-07 10:58:07, Imperial Highway, Los Angeles, California, United States, 90245
-2021-01-07 19:30:46, Douglas Street, Los Angeles, California, United States, 90009
-2021-01-07 19:48:22, Boring Test Tunnel, Hawthorne, California, United States, 90250
 2021-01-14 23:59:14, Presidential Boulevard, Austin, Texas, United States, 78719
 2021-01-21 00:55:59, Mathew Street, Santa Clara, California, United States, 95053
 2021-01-22 04:24:14, Boring Test Tunnel, Hawthorne, California, United States, 90250
-2021-01-23 21:07:56, Sepulveda Boulevard, Los Angeles, California, United States, 90009
 2021-01-24 00:52:17, Cargo Lane, Victorville, California, United States, 92301
-2021-01-24 03:03:38, Alert Road, Victorville, California, United States, 92394
 2021-01-24 03:39:15, Wayne Newton Boulevard, Las Vegas, Nevada, United States, 89119
 2021-01-24 06:07:00, Sepulveda Boulevard, Los Angeles, California, United States, 90009
-2021-01-30 08:48:39, Boring Test Tunnel, Hawthorne, California, United States, 90250
 2021-02-02 06:58:31, South Vermillion Avenue, Brownsville, Texas, United States, 
 2021-02-02 23:37:53, Presidential Boulevard, Austin, Texas, United States, 78719
 2021-02-05 08:36:00, Boring Test Tunnel, Hawthorne, California, United States, 90250
@@ -271,9 +235,6 @@
 2021-03-14 23:58:14, Boring Test Tunnel, Hawthorne, California, United States, 90250
 2021-03-15 05:27:15, Presidential Boulevard, Austin, Texas, United States, 78719
 2021-03-19 08:35:43, Concourse Level 4, Los Angeles, California, United States, 90245
-2021-03-19 08:43:29, Imperial Highway, Los Angeles, California, United States, 90245
-2021-03-19 17:30:27, Douglas Street, Los Angeles, California, United States, 90009
-2021-03-19 17:49:01, Boring Test Tunnel, Hawthorne, California, United States, 90250
 2021-03-23 00:58:05, Airport Boulevard, San Jose, California, United States, 95110
 2021-03-31 01:22:59, Boring Test Tunnel, Hawthorne, California, United States, 90250
 2021-04-03 06:23:18, Presidential Boulevard, Austin, Texas, United States, 78719
@@ -294,8 +255,6 @@
 2021-05-01 08:24:08, Northwest 57th Avenue, , Florida, United States, 33142
 2021-05-04 00:26:47, Fred Wehran Drive, Teterboro, New Jersey, United States, 07608
 2021-05-10 08:18:20, Sepulveda Boulevard, Los Angeles, California, United States, 90009
-2021-05-10 19:24:43, Douglas Street, Los Angeles, California, United States, 90009
-2021-05-10 19:51:17, Boring Test Tunnel, Hawthorne, California, United States, 90250
 2021-05-11 07:08:02, Airport Boulevard, San Jose, California, United States, 95110
 2021-05-14 15:33:38, Provost Way, Luton, England, United Kingdom, LU2 9LY
 2021-05-16 18:10:59, Melli-Beese-Ring, , Brandenburg, Deutschland, 12529
@@ -317,7 +276,6 @@
 2021-06-28 02:43:13, Airport Boulevard, San Jose, California, United States, 95110
 2021-06-29 02:36:00, Presidential Boulevard, Austin, Texas, United States, 78719
 2021-07-02 10:42:54, Sepulveda Boulevard, Los Angeles, California, United States, 90009
-2021-07-02 20:48:34, Boring Test Tunnel, Hawthorne, California, United States, 90250
 2021-07-06 23:23:56, Airport Boulevard, San Jose, California, United States, 95110
 2021-07-07 23:50:50, Boring Test Tunnel, Hawthorne, California, United States, 90250
 2021-07-08 02:18:02, Airport Boulevard, San Jose, California, United States, 95110
@@ -363,21 +321,16 @@
 2021-08-05 09:33:39, Boring Test Tunnel, Hawthorne, California, United States, 90250
 2021-08-06 03:27:55, Airport Boulevard, San Jose, California, United States, 95110
 2021-08-06 06:13:33, Northside Parkway, Los Angeles, California, United States, 90045
-2021-08-06 06:20:56, Imperial Highway, Los Angeles, California, United States, 90245
-2021-08-07 03:58:03, Sepulveda Boulevard, Los Angeles, California, United States, 90009
 2021-08-11 15:34:35, Zaunstraße 1, Rotberg, Brandenburg, Deutschland, 12529
-2021-08-11 15:42:43, Melli-Beese-Ring, , Brandenburg, Deutschland, 12529
 2021-08-15 01:13:31, Boring Test Tunnel, Hawthorne, California, United States, 90250
 2021-08-18 05:11:03, South Minnesota Avenue, Brownsville, Texas, United States, 
 2021-08-18 08:36:06, Airport Boulevard, San Jose, California, United States, 95110
 2021-08-20 05:14:13, Boring Test Tunnel, Hawthorne, California, United States, 90250
-2021-08-23 05:32:32, Sepulveda Boulevard, Los Angeles, California, United States, 90009
 2021-08-24 08:57:54, South Vermillion Avenue, Brownsville, Texas, United States, 
 2021-08-27 20:24:43, Presidential Boulevard, Austin, Texas, United States, 78719
 2021-08-31 01:32:14, Boring Test Tunnel, Hawthorne, California, United States, 90250
 2021-09-01 04:27:41, Airport Boulevard, San Jose, California, United States, 95110
 2021-09-03 06:05:44, Sepulveda Boulevard, Los Angeles, California, United States, 90009
-2021-09-03 19:00:51, Boring Test Tunnel, Hawthorne, California, United States, 90250
 2021-09-06 03:31:09, Presidential Boulevard, Austin, Texas, United States, 78719
 2021-09-08 17:09:02, Boring Test Tunnel, Hawthorne, California, United States, 90250
 2021-09-08 20:42:26, Presidential Boulevard, Austin, Texas, United States, 78719
@@ -397,8 +350,6 @@
 2021-10-06 13:34:14, South Vermillion Avenue, Brownsville, Texas, United States, 
 2021-10-06 14:49:48, Presidential Boulevard, Austin, Texas, United States, 78719
 2021-10-08 13:42:48, Zaunstraße 1, Selchow, Brandenburg, Deutschland, 12529
-2021-10-08 13:50:35, Melli-Beese-Ring, , Brandenburg, Deutschland, 12529
-2021-10-09 18:24:13, Betriebsstraße 25, Selchow, Brandenburg, Deutschland, 12529
 2021-10-10 04:31:39, South Vermillion Avenue, Brownsville, Texas, United States, 
 2021-10-16 02:49:25, SpaceX Starlink Entrance, Hawthorne, California, United States, 90250
 2021-10-18 21:09:57, Airport Boulevard, San Jose, California, United States, 95110
@@ -407,17 +358,11 @@
 2021-10-23 22:16:03, Presidential Boulevard, Austin, Texas, United States, 78719
 2021-10-27 00:13:43, South Vermillion Avenue, Brownsville, Texas, United States, 
 2021-10-30 01:56:25, Northside Parkway, Los Angeles, California, United States, 90045
-2021-10-30 02:07:11, California Street, Los Angeles, California, United States, 90245
-2021-10-30 18:35:44, Douglas Street, Los Angeles, California, United States, 90009
-2021-10-30 18:57:36, Boring Test Tunnel, Hawthorne, California, United States, 90250
 2021-10-31 20:07:39, South Vermillion Avenue, Brownsville, Texas, United States, 
 2021-11-02 02:09:13, Presidential Boulevard, Austin, Texas, United States, 78719
 2021-11-05 14:32:16, East Willow Street, Long Beach, California, United States, 90815
 2021-11-07 23:41:35, Presidential Boulevard, Austin, Texas, United States, 78719
 2021-11-08 02:24:33, South Vermillion Avenue, Brownsville, Texas, United States, 
-2021-11-11 10:08:32, Yolanda Del Rio Road, , Texas, United States, 
-2021-11-11 10:08:50, , Brownsville, Texas, United States, 
-2021-11-11 10:09:12, Medford Avenue, Brownsville, Texas, United States, 78521
 2021-11-11 10:09:24, , , Texas, United States, 
 2021-11-11 10:50:00, Presidential Boulevard, Austin, Texas, United States, 78719
 2021-11-11 23:17:06, South Vermillion Avenue, Brownsville, Texas, United States, 
@@ -478,7 +423,6 @@
 2022-05-21 22:43:02, Boring Test Tunnel, Hawthorne, California, United States, 90250
 2022-05-22 21:23:34, Presidential Boulevard, Austin, Texas, United States, 78719
 2022-05-27 02:02:12, Boring Test Tunnel, Hawthorne, California, United States, 90250
-2022-05-27 03:47:08, Sepulveda Boulevard, Los Angeles, California, United States, 90009
 2022-05-30 06:42:28, A Avenue, Houston, Texas, United States, 77061
 2022-05-30 07:34:58, Presidential Boulevard, Austin, Texas, United States, 78719
 2022-06-02 17:53:24, South Vermillion Avenue, Brownsville, Texas, United States, 
@@ -531,7 +475,6 @@
 2022-09-01 22:47:43, Presidential Boulevard, Austin, Texas, United States, 78719
 2022-09-09 00:06:18, South Vermillion Avenue, Brownsville, Texas, United States, 
 2022-09-10 08:51:24, Westchester Parkway, Los Angeles, California, United States, 90293
-2022-09-10 08:56:35, Imperial Highway, Los Angeles, California, United States, 90245
 2022-09-10 23:17:14, Presidential Boulevard, Austin, Texas, United States, 78719
 2022-09-13 20:08:38, Airport Boulevard, San Jose, California, United States, 95110
 2022-09-15 01:51:37, Boring Test Tunnel, Hawthorne, California, United States, 90250
@@ -558,8 +501,6 @@
 2022-10-31 05:53:23, Malcolm Avenue, Teterboro, New Jersey, United States, 07604
 2022-11-02 01:35:41, Edge Light Road, , Virginia, United States, 24965
 2022-11-02 22:42:40, North Access Road, , California, United States, 94128
-2022-11-02 23:46:15, South Airport Boulevard, South San Francisco, California, United States, 94128
-2022-11-02 23:54:13, Departures, South San Francisco, California, United States, 94128
 2022-11-03 00:19:54, Mathew Street, Santa Clara, California, United States, 95053
 2022-11-04 09:42:52, Malcolm Avenue, Teterboro, New Jersey, United States, 07604
 2022-11-05 02:36:24, Presidential Boulevard, Austin, Texas, United States, 78719
@@ -568,24 +509,16 @@
 2022-11-14 08:12:32, North Access Road, , California, United States, 94128
 2022-11-16 17:15:44, Boring Test Tunnel, Hawthorne, California, United States, 90250
 2022-11-18 00:50:17, Earhart Road, Oakland, California, United States, 94614
-2022-11-19 10:01:59, Air Cargo Way, Oakland, California, United States, 94614
 2022-11-19 12:45:39, Presidential Boulevard, Austin, Texas, United States, 78719
 2022-11-21 06:54:01, Earhart Road, Oakland, California, United States, 94614
 2022-11-24 04:43:13, Presidential Boulevard, Austin, Texas, United States, 78719
 2022-11-28 03:18:16, Earhart Road, Oakland, California, United States, 94614
-2022-12-01 23:04:51, Air Cargo Way, Oakland, California, United States, 94614
 2022-12-01 23:40:11, Vassar Street, Reno, Nevada, United States, 89510
 2022-12-02 05:29:54, , Oakland, California, United States, 
-2022-12-02 05:38:01, Ron Cowan Parkway, Oakland, California, United States, 94614
-2022-12-02 18:28:57, Edward White Way, Oakland, California, United States, 94614
 2022-12-02 21:29:54, Loyola Drive, Kenner, Louisiana, United States, 70062
 2022-12-03 04:46:14, Earhart Road, Oakland, California, United States, 94614
-2022-12-03 22:06:14, Air Cargo Way, Oakland, California, United States, 94614
 2022-12-04 01:46:28, Edge Light Road, Dulles Town Center, Virginia, United States, 20166
-2022-12-04 01:49:24, Saarinen Circle, Dulles Town Center, Virginia, United States, 20166
-2022-12-04 04:43:47, Takeoff Road, , Virginia, United States, 20196
 2022-12-05 06:26:48, Earhart Road, Oakland, California, United States, 94614
-2022-12-13 02:51:03, Air Cargo Way, Oakland, California, United States, 94614
 2022-12-13 03:48:45, Sepulveda Boulevard, Los Angeles, California, United States, 90009
 2022-12-14 10:06:20, Presidential Boulevard, Austin, Texas, United States, 78719
 2022-12-16 00:40:19, Airport Boulevard, San Jose, California, United States, 95110
@@ -594,13 +527,8 @@
 2022-12-19 14:44:54, Airport Way, Luton, England, United Kingdom, LU2 9NE
 2022-12-20 01:16:01, Presidential Boulevard, Austin, Texas, United States, 78719
 2022-12-21 22:05:56, Edward White Way, Oakland, California, United States, 94614
-2022-12-24 05:50:31, John Glenn Drive, Oakland, California, United States, 94614
 2022-12-24 07:48:33, Airport Boulevard, , California, United States, 95837
-2022-12-24 07:56:06, Flightline Circle, , California, United States, 95837
-2022-12-24 23:50:27, , , California, United States, 
 2022-12-25 00:44:52, Westchester Parkway, Los Angeles, California, United States, 90293
-2022-12-25 00:59:35, Imperial Highway, Los Angeles, California, United States, 90245
-2022-12-25 01:32:19, Hughes Way, Los Angeles, California, United States, 90245
 2022-12-25 02:36:04, Reservoir Road, , California, United States, 95837
 2022-12-25 05:24:27, West 119th Drive, Broomfield, Colorado, United States, 80020
 2022-12-27 00:37:11, Presidential Boulevard, Austin, Texas, United States, 78719
@@ -611,40 +539,26 @@
 2022-12-29 01:33:41, Boring Test Tunnel, Hawthorne, California, United States, 90250
 2023-01-03 00:21:12, Presidential Boulevard, Austin, Texas, United States, 78719
 2023-01-04 00:42:25, , Oakland, California, United States, 
-2023-01-04 00:46:23, Ron Cowan Parkway, Oakland, California, United States, 94614
 2023-01-08 00:37:39, Presidential Boulevard, Austin, Texas, United States, 78719
 2023-01-10 02:44:44, Earhart Road, Oakland, California, United States, 94614
-2023-01-10 19:40:34, Air Cargo Way, Oakland, California, United States, 94614
 2023-01-10 22:30:36, Presidential Boulevard, Austin, Texas, United States, 78719
 2023-01-16 21:19:59, Earhart Road, Oakland, California, United States, 94614
-2023-01-22 00:55:28, Air Cargo Way, Oakland, California, United States, 94614
 2023-01-22 01:51:07, Vanowen Street, Los Angeles, California, United States, 91515
 2023-01-23 03:54:23, Post Road, , Rhode Island, United States, 02886
 2023-01-23 09:29:12, Edward White Way, Oakland, California, United States, 94614
-2023-01-24 20:46:52, John Glenn Drive, Oakland, California, United States, 94614
 2023-01-24 21:23:55, South Rock Boulevard, Reno, Nevada, United States, 89510
 2023-01-25 00:43:45, Edward White Way, Oakland, California, United States, 94614
-2023-01-26 16:20:59, South Loop Road, Alameda, California, United States, 94502
 2023-01-26 20:28:32, Edge Light Road, Dulles Town Center, Virginia, United States, 20166
-2023-01-26 20:32:58, Tank Farm Road, , Virginia, United States, 20196
-2023-01-27 19:03:46, Golf Road, , Virginia, United States, 20102
 2023-01-27 23:59:11, Edward White Way, Oakland, California, United States, 94614
-2023-01-28 19:56:23, John Glenn Drive, Oakland, California, United States, 94614
 2023-01-28 22:32:58, Presidential Boulevard, Austin, Texas, United States, 78719
 2023-01-29 18:21:35, California Road, Brownsville, Texas, United States, 78521
 2023-01-31 22:19:18, Earhart Road, Oakland, California, United States, 94614
-2023-02-04 00:12:57, Air Cargo Way, Oakland, California, United States, 94614
 2023-02-04 02:57:42, Presidential Boulevard, Austin, Texas, United States, 78719
 2023-02-07 00:58:10, Earhart Road, Oakland, California, United States, 94614
-2023-02-08 04:02:31, Air Cargo Way, Oakland, California, United States, 94614
 2023-02-08 05:08:03, Boring Test Tunnel, Hawthorne, California, United States, 90250
 2023-02-09 05:51:00, Earhart Road, Oakland, California, United States, 94614
-2023-02-12 20:29:35, Air Cargo Way, Oakland, California, United States, 94614
 2023-02-12 22:04:36, South Bullard Avenue, Goodyear, Arizona, United States, 85395
 2023-02-13 04:55:19, Earhart Road, Oakland, California, United States, 94614
-2023-02-19 20:23:39, Air Cargo Way, Oakland, California, United States, 94614
 2023-02-19 23:11:51, Presidential Boulevard, Austin, Texas, United States, 78719
 2023-02-21 21:25:42, Air Cargo Way, Oakland, California, United States, 94614
-2023-02-21 21:29:51, Ron Cowan Parkway, Oakland, California, United States, 94614
-2023-02-23 23:17:34, Edward White Way, Oakland, California, United States, 94614
 2023-02-24 02:11:29, Presidential Boulevard, Austin, Texas, United States, 78719
